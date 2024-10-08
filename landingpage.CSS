@@ -1,0 +1,94 @@
+header{
+    text-align: start;
+    color: rgb(237, 240, 252);
+    /* background-color: rgb(81, 123, 236); */
+    text-decoration: line-through;  
+    font-size: large;
+    font-weight: bold;
+    aspect-ratio: 1000;
+    float: left;
+}
+h3{
+    font-family:papyrus;
+    color: #ffffff;
+}
+p>h3{
+    font-size: 300;
+}
+h4{
+    font-size: medium;
+}
+h5{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+table{
+    border: rgb(216, 242, 247);
+    opacity: 80%;
+    /* background-color: rgb(247, 247, 247); */
+    font-size: xx-large;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+caption{
+    font-size: larger;
+    font-family:PAPYRUS;
+}
+footer{
+    background-color: darkgray;
+    color: whitesmoke;
+    padding: 5px;
+}
+div>table{
+    
+    /* background-color: aliceblue; */
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+P{
+    font-size:large;
+    font-family: monospace;
+}
+h2{
+    color: rgb(240, 248, 248);
+}
+li{
+    text-align: end;
+    font-size: x-large;
+    color: rgb(107, 168, 223);
+}
+footer>ul>LI>a{
+    color: rgb(14, 76, 131);
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text: shadow 10px;
+}
+body{
+    background-color: rgb(31, 33, 34);
+}
+header:hover{
+    background-color: darkblue;
+    background-image: -moz-element(GettyImages-76990134_1200x768);
+    opacity: calc(60%);
+}
+main{
+    background-image: url(HD-wallpaper-ms-dhoni-cricket-india-ms-dhoni-sports-thumbnail.jpg) ;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    
+}
+table:hover{
+    background-color: rgb(5, 37, 85);
+    opacity: 85%;
+    color: whitesmoke;
+}
+a{
+    color: rgba(255, 115, 1, 0.815);
+}
+a:hover{
+    color: whitesmoke;
+}
